@@ -4,6 +4,6 @@ A collection of random things. There's no theme or focus for this project — ju
 Explore at your own risk!
 
 ## Versioning
-We use [SemVer](https://semver.org/) for versioning. For the full changelog, see 
+We use [SemVer](https://semver.org/) for versioning. For the full changelog, see [CHANGELOG.md](CHANGELOG.md).
 
 Each small project will have their own versioning stated inside their README.md file.
